@@ -3,7 +3,7 @@ import { FloatingElements } from './components/FloatingElements';
 import { Milk, Droplets, Leaf, Sparkles, IceCream, Star } from 'lucide-react';
 import logo from 'figma:asset/e8c03d4b2f7a4a60b23d8f1e172712a4d9c13e93.png';
 
-const img = './src/assets/mojito.png';
+const img = '/assets/mojito.png';
 
 export default function App() {
   const menuData = [
